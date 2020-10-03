@@ -173,7 +173,7 @@ skills_p.appendChild(JS_span);
 
 const grad1 = document.createElement("span");
 grad1.classList.add("grad1");
-grad1.style.setProperty("margin-left", "3%");
+grad1.style.setProperty("margin-left", "5%");
 grad1.style.setProperty("width", "180px");
 skills_p.appendChild(grad1);
 
@@ -189,7 +189,7 @@ skills_p.appendChild(html_span);
 
 const grad2 = document.createElement("span");
 grad2.classList.add("grad1");
-grad2.style.setProperty("margin-left", "5.3%");
+grad2.style.setProperty("margin-left", "9.5%");
 grad2.style.setProperty("width", "200px");
 skills_p.appendChild(grad2);
 
@@ -205,7 +205,7 @@ skills_p.appendChild(css_span);
 
 const grad3 = document.createElement("span");
 grad3.classList.add("grad1");
-grad3.style.setProperty("margin-left", "7%");
+grad3.style.setProperty("margin-left", "12.5%");
 grad3.style.setProperty("width", "160px");
 skills_p.appendChild(grad3);
 
@@ -221,7 +221,7 @@ skills_p.appendChild(node_span);
 
 const grad4 = document.createElement("span");
 grad4.classList.add("grad1");
-grad4.style.setProperty("margin-left", "5%");
+grad4.style.setProperty("margin-left", "8.5%");
 grad4.style.setProperty("width", "100px");
 skills_p.appendChild(grad4);
 
@@ -237,7 +237,7 @@ skills_p.appendChild(git_span);
 
 const grad5 = document.createElement("span");
 grad5.classList.add("grad1");
-grad5.style.setProperty("margin-left", "7.5%");
+grad5.style.setProperty("margin-left", "13.5%");
 grad5.style.setProperty("width", "230px");
 skills_p.appendChild(grad5);
 
@@ -253,7 +253,7 @@ skills_p.appendChild(c_span);
 
 const grad6 = document.createElement("span");
 grad6.classList.add("grad1");
-grad6.style.setProperty("margin-left", "8.5%");
+grad6.style.setProperty("margin-left", "15.5%");
 grad6.style.setProperty("width", "150px");
 skills_p.appendChild(grad6);
 
@@ -269,7 +269,7 @@ skills_p.appendChild(lin_span);
 
 const grad7 = document.createElement("span");
 grad7.classList.add("grad1");
-grad7.style.setProperty("margin-left", "5.8%");
+grad7.style.setProperty("margin-left", "10.3%");
 grad7.style.setProperty("width", "170px");
 skills_p.appendChild(grad7);
 
